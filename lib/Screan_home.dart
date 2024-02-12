@@ -46,7 +46,7 @@ class _ScreanState extends State<Screan> {
                               fontSize: 28, fontWeight: FontWeight.bold)),
                       Text('$Player1SC',
                           style: TextStyle(
-                              fontSize: 28,
+                              fontSize: 29,
                               fontWeight: FontWeight.bold,
                               color: Colors.black)),
                     ],
@@ -63,7 +63,7 @@ class _ScreanState extends State<Screan> {
                           )),
                       Text('$Player2SC',
                           style: TextStyle(
-                              fontSize: 28,
+                              fontSize: 29,
                               fontWeight: FontWeight.bold,
                               color: Colors.black)),
                     ],
